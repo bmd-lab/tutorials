@@ -10,3 +10,5 @@ Introductory tutorials for new students
 | [Tutorial 5](https://github.com/bmd-lab/tutorials/wiki/tutorial-5) Sending or receiving files | 
 | [Tutorial 6](https://github.com/bmd-lab/tutorials/wiki/tutorial-6) Options and outputs |
 | [Tutorial 7](https://github.com/bmd-lab/tutorials/wiki/tutorial-7) Automating tasks |
+| [Tutorial 8](https://github.com/bmd-lab/tutorials/wiki/tutorial-8) Vienna Ab initio Simulation Package (VASP)  |
+| [Tutorial 9](https://github.com/bmd-lab/tutorials/wiki/tutorial-9) Universal Structure Predictor: Evolutionary Xtallography (USPEX) |
