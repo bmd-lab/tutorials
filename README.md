@@ -2,7 +2,7 @@
 Introductory tutorials for new students 
 
 |Computing with a command line <img width=128/>|   Language   |                                             
-| ---- |  
+| ---- | --- |
 | Tutorial 1 Installing linux | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-1) |
 | Tutorial 2 Navigating with linux | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-2) | 
 | Tutorial 3 Reading or editing files | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-3) |
