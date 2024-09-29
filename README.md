@@ -1,5 +1,5 @@
 # Tutorials
-Introductory tutorials for new students. If you are a Mac user you might also want to consult Lee's thoughts on setting up a new Apple device [here](https://github.com/bmd-lab/tutorials/wiki/Apple-Set-Up-Guide)
+Introductory tutorials for new students.
 
 |Recommended order and title <img width=128/>|   Language   |                                             
 | ---- | --- |
