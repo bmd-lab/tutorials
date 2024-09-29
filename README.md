@@ -11,5 +11,5 @@ Introductory tutorials for new students.
 | Tutorial 6- Options and outputs | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-6)/[Hebrew](https://github.com/bmd-lab/tutorials/wiki/%D7%94%D7%93%D7%A8%D7%9B%D7%94-6) |
 | Tutorial 7- Automating tasks | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-7)/[Hebrew](https://github.com/bmd-lab/tutorials/wiki/%D7%94%D7%93%D7%A8%D7%9B%D7%94-7) |
 | Tutorial 8- Vienna Ab initio Simulation Package (VASP)  | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-8) |
-| Tutorial 9- The Tel Aviv University Supercomputer "POWER" | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-9) |
+| Tutorial 9- Working on the TAU supercomputer "POWER" | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-9) |
 | Tutorial 10- Universal Structure Predictor: Evolutionary Xtallography (USPEX) | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-10) |
