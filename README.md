@@ -1,5 +1,5 @@
 # Tutorials
-Introductory tutorials for new students 
+Introductory tutorials for new students. If you are an Mac user you might also want to consult Lee's thoughts on setting up a new Apple device [here]()
 
 |Recommended order and title <img width=128/>|   Language   |                                             
 | ---- | --- |
