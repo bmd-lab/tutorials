@@ -12,5 +12,5 @@ Introductory tutorials for new students.
 | Tutorial 7- Automating tasks | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-7)/[Hebrew](https://github.com/bmd-lab/tutorials/wiki/%D7%94%D7%93%D7%A8%D7%9B%D7%94-7) |
 | Tutorial 8- Vienna Ab initio Simulation Package (VASP)  | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-8) |
 | Tutorial 9- Working on the TAU supercomputer "POWER" | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-9) |
-| Tutorial 10- Python Materials Genomics (PyMatGen) Toolkit | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-9) |
-| Tutorial 11- Universal Structure Predictor: Evolutionary Xtallography (USPEX) | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-10) |
+| Tutorial 10- Python Materials Genomics (PyMatGen) Toolkit | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-10) |
+| Tutorial 11- Universal Structure Predictor: Evolutionary Xtallography (USPEX) | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-11) |
