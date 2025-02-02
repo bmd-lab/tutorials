@@ -17,3 +17,4 @@ Introductory tutorials for new students.
 | Tutorial 12- Using the Python Materials Genomics (PyMatGen) Toolkit | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-12) |
 | Tutorial 13- Universal Structure Predictor: Evolutionary Xtallography (USPEX) | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-13) |
 | Tutorial 14- Working with the Materials Project | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-14) |
+| Tutorial 15- High-Throughput Computing on POWER | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-15) |
