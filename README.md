@@ -14,7 +14,7 @@ Introductory tutorials for new students.
 | Tutorial 9- Working on the TAU supercomputer "POWER" | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-9) |
 | Tutorial 10- Installing Python on POWER and your PC | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-10) |
 | Tutorial 11- Using Python | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-11) |
-| Tutorial 12- Using the Python Materials Genomics (PyMatGen) Toolkit | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-12) |
+| Tutorial 12- Using the Python Materials Genomics (PyMatGen) toolkit | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-12) |
 | Tutorial 13- Universal Structure Predictor: Evolutionary Xtallography (USPEX) | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-13) |
 | Tutorial 14- Working with the Materials Project | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-14) |
-| Tutorial 15- High-Throughput Computing on POWER | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-15) |
+| Tutorial 15- High-throughput computing on POWER | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-15) |
