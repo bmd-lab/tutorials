@@ -18,4 +18,4 @@ Introductory tutorials for new students.
 | Tutorial 13- Universal Structure Predictor: Evolutionary Xtallography (USPEX) | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-13) |
 | Tutorial 14- Working with the Materials Project | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-14) |
 | Tutorial 15- High-throughput computing on POWER | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-15) |
-| Tutorial 16- Publishing | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-16) |
+| Tutorial 16- Publishing results | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-16) |
