@@ -20,3 +20,4 @@ Introductory tutorials for new students.
 | Tutorial 14- Working with the Materials Project | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-14) |
 | Tutorial 15- High-throughput computing on POWER | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-15) |
 | Tutorial 16- Publishing results | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-16) |
+| Tutorial 17- Funding opportunities | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-17) |
