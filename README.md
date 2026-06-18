@@ -17,7 +17,9 @@ Introductory tutorials for new students.
 | Tutorial 12- Using the Python Materials Genomics (PyMatGen) toolkit | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-12) |
 | Tutorial 13- The Special Quasirandom Structures (SQS) Method | [English](https://github.com/bmd-lab/tutorials/wiki/Tutorial-13) |
 | Tutorial 14- Universal Structure Predictor: Evolutionary Xtallography (USPEX) | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-14) |
-| Tutorial 15- Working with the Materials Project | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-15) |
-| Tutorial 16- High-throughput computing on POWER | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-16) |
-| Tutorial 17- Publishing results | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-17) |
-| Tutorial 18- Funding opportunities | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-18) |
+| Tutorial 15- Calculating Band Structures | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-15) |
+| Tutorial 16- Working with the Materials Project | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-16) |
+| Tutorial 17- High-throughput computing on POWER | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-17) |
+| Tutorial 18- XtalOpt | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-18) |
+| Tutorial 19- Publishing results | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-19) |
+| Tutorial 20- Funding opportunities | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-20) |
