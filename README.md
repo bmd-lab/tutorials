@@ -17,9 +17,9 @@ Introductory tutorials for new students.
 
 | Learning Python? <img width=128/>|   Language   | 
 | ---- | --- |
-| Tutorial 9- Installing Python on POWER and your PC | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-10) |
-| Tutorial 10- Using Python | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-11) |
-| Tutorial 11- Using the Python Materials Genomics (PyMatGen) toolkit | [English](https://github.com/bmd-lab/tutorials/wiki/tutorial-12) |
+| Tutorial 9- Installing Python on POWER and your PC | [English](https://github.com/bmd-lab/tutorials/wiki/Python-Virtual-Environments) |
+| Tutorial 10- Using Python | [English](https://github.com/bmd-lab/tutorials/wiki/Using-Python) |
+| Tutorial 11- Using the Python Materials Genomics (PyMatGen) toolkit | [English](https://github.com/bmd-lab/tutorials/wiki/Using-PyMatGen) |
 
 | Ready for research? <img width=128/>|   Language   | 
 | ---- | --- |
